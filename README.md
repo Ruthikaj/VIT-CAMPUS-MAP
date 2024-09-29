@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69cbdf4c-0c34-42fa-a2e1-d51f55d92d78)# VIT-CAMPUS-MAP
+# VIT-CAMPUS-MAP
 prototype addresses the practical challenges of campus navigation and also underscores the importance of user-centric design in creating mobile application. • The prototype automatically syncs navigation history and campus exploration details to users' devices, providing a comprehensive record of their daily and weekly campus activities
 Based on the extracted text from the image, here's a structured README file for your GitHub repository. I've ensured it's professional and comprehensive:
 
